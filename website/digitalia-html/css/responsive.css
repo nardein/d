@@ -8,7 +8,7 @@
   }
 
   .hero_area {
-    background: linear-gradient(130deg, #231a6f, #0f054c);
+    background: linear-gradient(0deg, rgba(55,139,41,1) 0%, rgba(103,198,110,1) 35%, rgba(116,214,128,1) 100%); 
   }
 
   .hero_area .hero_bg_box {
